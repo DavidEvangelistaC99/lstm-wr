@@ -1,1 +1,5 @@
 The I/Q signals depends on some parameters that we should indentify.
+We need:
+- SNR
+- Mean velocity
+- Spectral width
